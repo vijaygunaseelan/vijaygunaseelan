@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 </h2> 
 
-| <a href="https://github.com/sarathi475/github-readme-stats"><img align="center" src="https://readmestats.999857.xyz/api?username=sarathi475&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Aklilu's github stats" /></a> | <a href="https://github.com/sarathi475/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathi475&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
+| <a href="https://github.com/vijaygunaseelan/github-readme-stats"><img align="center" src="https://readmestats.999857.xyz/api?username=vijaygunaseelan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Aklilu's github stats" /></a> | <a href="https://github.com/vijaygunaseelan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaygunaseelan&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
 
