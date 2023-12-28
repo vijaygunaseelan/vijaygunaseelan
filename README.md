@@ -4,8 +4,8 @@ Here are some ideas to get you started:
 
 - I’m Doing AI and ML.
 - currently working in USDC Global Private Ltd.
-- I’m looking to collaborate on AI/ML and Python Projects.
 
+<p align="center"> - I’m looking to collaborate on AI/ML and Python Projects. </p>
 <p align="center"> - How to reach me vijaysiva2409@gmail.com | +91 8056738564 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vijay-g-5079251b9&label=Profile%20views&color=0e75b6&style=flat" alt="vijaygunaseelan" /> </p>
 
