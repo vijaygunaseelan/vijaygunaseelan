@@ -1,7 +1,4 @@
-
-
-
-### Hi there I am Vijay
+<p align="center">  Hi there I am Vijay </p>
 <p align="center"> Here are some ideas to get you started </p>
 <p align="center"> - I’m Doing AI and ML.</p>
 <p align="center"> - currently working in USDC Global Private Ltd.</p>
