@@ -1,8 +1,8 @@
+
+
+
 ### Hi there I am Vijay
-
-Here are some ideas to get you started:
-
-<p align="center"> - I’m Doing AI and ML.</p>
+<p align="center"> Here are some ideas to get you started </p>
 <p align="center"> - I’m Doing AI and ML.</p>
 <p align="center"> - currently working in USDC Global Private Ltd.</p>
 <p align="center"> - I’m looking to collaborate on AI/ML and Python Projects. </p>
